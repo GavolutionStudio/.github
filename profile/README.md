@@ -16,7 +16,7 @@ https://somafm.com
 https://www.siriusxm.com/music?intcmp=Global%20Nav_NA_www:Home_Music
 ```
 
-# Best MP3-Players
+# Best Portable Audio Players
 
 ```
 https://electronics.sony.com/audio/walkman-digital-recorders/walkman-mp3-players/p/nwws413bm
@@ -27,4 +27,9 @@ https://electronics.sony.com/audio/walkman-digital-recorders/walkman-mp3-players
 
 ```
 https://us.creative.com/p/sound-blaster/sound-blaster-x1
+```
+
+# Best Headphones
+```
+https://usa.1more.com/products/1more-quad-driver-in-ear-headphones?srsltid=AfmBOoqa4MIL_hbOLfH1G_pCOvoK90KD0vmeOVtY4-BSGHr2HEkE00jf
 ```
