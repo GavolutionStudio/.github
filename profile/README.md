@@ -16,3 +16,9 @@ https://www.siriusxm.com/music?intcmp=Global%20Nav_NA_www:Home_Music
 https://electronics.sony.com/audio/walkman-digital-recorders/walkman-mp3-players/p/nwws413bm
 https://electronics.sony.com/audio/walkman-digital-recorders/walkman-mp3-players/p/nwa306-b
 ```
+
+# Best Audio Enhancer
+
+```
+https://us.creative.com/p/sound-blaster/sound-blaster-x1
+```
