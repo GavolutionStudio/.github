@@ -6,4 +6,5 @@
 https://mynoise.net
 https://www.brain.fm
 https://github.com/th-ch/youtube-music
+https://somafm.com
 ```
